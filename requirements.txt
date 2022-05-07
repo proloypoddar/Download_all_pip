@@ -1,0 +1,8 @@
+numpy
+wolframalpha
+pandas
+sci-kit
+speech_recognition
+pyjokes
+wikipedia
+pyautogui
